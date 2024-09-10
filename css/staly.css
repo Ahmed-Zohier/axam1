@@ -1,0 +1,1055 @@
+
+
+body{
+    height: 9000px;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+background-color: rgba(0, 0, 0, 0.9);
+    
+}
+
+.container{
+    width: 100%;
+    margin: 0 auto;
+    padding: 15px;}
+
+
+
+a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform:uppercase;
+}
+
+a:hover{
+    text-decoration: underline white; 
+    color: brown;
+    transition: 1s;
+    width: 100px;
+    height: 50px;   
+}
+
+.iconhedar{
+    color: white;
+    font-size: 50px;
+    margin-left: 140%;
+    margin-top: -25%;
+}
+
+.iconhedar2{
+    color: white;
+    font-size: 50px;
+    margin-top: -4%;
+    text-align: left;
+  margin-left: -25%;
+  
+}
+
+
+.home{
+    width: 100%;
+    height: 100vh;
+    background-image: url(../img/famous-car-taglines-of-all-time-body-a-200620220100-1024x640-AR4122022.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative; 
+   background-color: rgba(0, 0, 0, 0.8); 
+}
+
+.hader{
+    width: 90%;
+    height: 60px;
+    background-color:black;
+    margin-left:70px;
+    border: 0;
+    border-radius: 15px;
+    margin-top: 10px;
+    position: relative;
+    position: absolute;
+    position: fixed;
+    z-index: 100000;
+    opacity: 0.8;
+
+}
+
+.list{
+    text-align: right;
+    margin-right: 50px;
+    position: relative;
+    margin-top: -6px;
+    position: relative;
+    
+}
+
+.list .list1 .list11{
+    display: inline-block;
+    font-size: 30px;
+   margin-left: 80px;
+   border-radius: 30px;
+   text-decoration:none;
+   padding:0px;
+   text-transform: capitalize;
+   
+}
+
+.loug{
+position: absolute;
+height: 50px;
+width: 100px;
+margin-top:-28px;
+
+}
+
+
+.titilehomepput{
+    margin-top: 13%;
+    margin-left: 28%;
+    width: 650px;
+    height: 300px;
+    text-align: center;
+    color:black;
+    font-size: 30px;
+    position: absolute;
+}
+
+.titilehomepputh2{
+    font-size:60px;
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    margin-bottom:-18px;
+}
+.titilehomepputp{
+    font-size: 40px;
+    color: wheat;
+    text-transform: capitalize;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.titilehomepputpu{
+    font-size: 30px;
+    width: 150px;
+    height: 60px;
+    border: 0;
+    border-radius: 15px;
+    background-color:brown;
+    text-transform:capitalize;
+}
+
+.titilehomepputput{
+    font-size: 30px;
+    width: 150px;
+    height: 60px;
+    border: 0;
+    border-radius: 15px;
+    background-color:white;
+    text-transform:capitalize;
+}
+.samptitleGustomize{
+    color: white;
+}
+
+.titilehomepputpu:hover{
+    font-size: 30px;
+    width: 150px;
+    height: 60px;
+    border: 0;
+    border-radius: 15px;
+    background-color:white;
+    opacity: 0.5;
+    cursor:pointer;
+    color: black;
+}
+
+.titilehomepputput:hover{
+    font-size: 30px;
+    width: 150px;
+    height: 60px;
+    border: 0;
+    border-radius: 15px;
+    background-color:brown;
+    opacity: 0.5;
+    cursor:pointer;
+    color:white;
+}
+
+.my{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nn1{
+    color: brown;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.linedive{
+    width: 100%;
+    height:1px ;
+    background-color: brown;
+    /* border: 0 solid brown; */
+    margin-top: 0px;
+
+}
+
+/*نهااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااية الجزه الاول  */
+
+.titelbart2{
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: brown;
+    text-transform: uppercase;
+    margin-top: 100px;
+}
+
+.linetitelbart2{
+    width: 200px;
+    height: 7px;
+    background-color:white;
+    margin: auto;
+    margin-top: -10px;
+}
+
+.conitner1{
+    width: 80%;
+    height: 9%;
+    margin:auto;
+    margin-top: 100px;
+    position: relative;
+}
+
+.Gustomize{
+    width: 25%;
+    height: 45%;
+    border: 1px solid white;
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 15px;
+    float: left; 
+    border-radius: 15px;    
+}
+
+
+.Gustomize1{
+    width: 25%;
+    height: 45%;
+    border: 1px solid white;
+    position: absolute;
+    margin-left: 37%;
+    margin-top: 15px;
+    border-radius: 15px;
+    
+    
+}
+
+.Gustomize2{
+    width: 25%;
+    height: 45%;
+    border: 1px solid white;
+    position: absolute;
+    margin-left: 73%;
+    margin-top: 15px;
+    border-radius: 15px;
+    /* background-color :rgba(0, 0, 0, 0.8); */
+    
+}
+
+.titleGustomize{
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+    text-align: center;
+
+}
+
+.sampGustomize1{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:brown;
+    text-align: center;
+}
+
+.icon1{
+    color:white;
+    
+}
+
+
+
+.moresamptitleGustomize{
+  direction: rtl;
+  margin-left: 100px;
+ width: 100px;
+ height: 40px;
+ font-size: 16px;
+ border: 0;
+ border-radius: 15px;
+ background-color: brown;
+ position: absolute;
+ z-index: 2;
+ margin-top: 10px;
+ margin-left: 140px;
+ font-family:Arial, Helvetica, sans-serif;
+}
+
+.Gustomize::after{
+    content: "";
+    position: absolute;
+    width: 0%;
+    height: 0%;
+
+    bottom:0% ;
+    left: 0%;
+    background-color:  rgb(136, 209, 209);
+    opacity: 0;
+}
+
+
+.Gustomize:hover::after{
+    content: "";
+    width: 100%;
+    height:100%;
+    transition: 2s;
+    opacity:0.3;
+}
+
+.Gustomize2::after{
+    content: "";
+    position: absolute;
+    width: 0%;
+    height: 0%;
+
+    right:0% ;
+    top: 0%;
+    background-color:  rgb(136, 209, 209);
+    opacity: 0;
+}
+
+
+.Gustomize2:hover::after{
+    content: "";
+    width: 100%;
+    height:100%;
+    transition: 2s;
+    opacity:0.3;
+}
+
+.Gustomize1::after{
+    content: "";
+    position: absolute;
+    width: 0%;
+    height: 0%;
+
+    right:0% ;
+    top: 0%;
+    background-color: rgb(136, 209, 209);
+    opacity: 0;
+}
+
+
+.Gustomize1:hover::after{
+    content: "";
+    width: 100%;
+    height:100%;
+    transition: 1s;
+    opacity:0.3;
+}
+
+
+/* نهاااااااااااااااايييييييييييييييييييييييييييية الباااااااااااااااااااااارات الثاااااااااااااااااني  */
+
+.titelbart3{
+    font-size: 60px;
+    text-align: center;
+    color:brown;
+    margin-top: 200px;
+}
+
+.linetitelbart3{
+    width: 300px;
+    height: 5px;
+    background-color:white;
+    margin: auto;
+    margin-top: -50px;
+}
+
+
+.contenir2{
+
+    width: 90%;
+    height: 10%;
+    margin-top: -500px;
+    margin-left:70px;
+    position: relative;
+    /* background-color: rgba(0, 0, 0, 0.1); */
+}
+
+.business1{
+    width: 25%;
+    height: 25%;
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 15%;
+    background-image: url(../img/car1.jpg);
+    background-size: cover;
+    border-radius: 20px;
+   
+}
+
+.business2{
+    width: 25%;
+    height: 25%;
+    position: absolute;
+    margin-left: 38%;
+    margin-top: 15%;
+    background-image: url(../img/image77s.jpeg);
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.business3{
+    width: 25%;
+    height:25%;
+    position: absolute;
+    margin-left: 70%;
+    margin-top: 15%;
+    background-image: url(../img/image6s.jpeg);
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.business4{
+    width: 25%;
+    height:25%;
+margin-top: 50%;
+position: absolute;
+margin-left: 70%;
+background-image: url(../img/image5s.jpeg);
+background-size: cover;
+border-radius: 20px;
+}
+
+.business5{
+    width: 25%;
+    height:25%;
+margin-top: 50%;
+position: absolute;
+margin-left: 38%;
+background-image: url(../img/cae2.jpeg);
+background-size: cover;
+border-radius: 20px;
+}
+
+.business6{
+    width: 25%;
+    height:25%;
+margin-top: 50%;
+position: absolute;
+margin-left: 5%;
+background-image: url(../img/caer4.jpeg);
+background-size: cover;
+border-radius: 20px;
+
+}
+
+  .business1,.business2,.business3,.business4,.business5,.business6{
+
+    .titelbusiness{
+        font-size: 40px;
+        text-align: center;
+        color:brown;
+        text-transform: uppercase;
+        opacity:0;
+    }
+    
+    .pbusiness{
+        font-size: 40px;
+        text-align: center;
+        color:white;
+        text-transform: uppercase;
+        margin-top: -20px;
+        opacity: 0;
+    }
+    
+    .logebusiness{
+      font-size: 40px;
+        color: brown;
+        margin-left: 60px;
+       margin-top:  -50px;
+       position: absolute;
+       opacity: 0;
+    }
+    .logebusiness1{
+        font-size: 40px;
+          color: white;
+          margin-left: 120px;
+         margin-top:  -50px;
+         position: absolute;
+         opacity: 0;
+      }
+    
+      .logebusiness3{
+        font-size: 40px;
+          color: white;
+          background-color:green;
+          margin-left: 180px;
+         margin-top:  -50px;
+         position: absolute;
+         opacity: 0;
+      }
+    
+  }
+
+
+
+  
+  .business1:hover,.business2:hover,.business3:hover,.business4:hover,.business5:hover,.business6:hover{
+    .titelbusiness{
+        font-size: 40px;
+        text-align: center;
+        color:brown;
+        text-transform: uppercase;
+        opacity:1;
+        transition: 1s;
+    
+       
+    
+    }
+    
+    .pbusiness{
+        font-size: 40px;
+        text-align: center;
+        color:white;
+        text-transform: uppercase;
+        margin-top: -20px;
+        opacity: 1;
+        transition: 1s;
+    }
+    
+    .logebusiness{
+      font-size: 40px;
+        color: brown;
+        margin-left: 60px;
+       margin-top:  -50px;
+       position: absolute;
+       opacity: 1;
+       transition: 1s;
+    }
+    .logebusiness1{
+        font-size: 40px;
+          color: white;
+          margin-left: 120px;
+         margin-top:  -50px;
+         position: absolute;
+         opacity: 1;
+         transition: 1s;
+      }
+    
+      .logebusiness3{
+        font-size: 40px;
+          color: white;
+          background-color:green;
+          margin-left: 180px;
+         margin-top:  -50px;
+         position: absolute;
+         opacity: 1;
+         transition: 1s;
+      }
+    
+  }
+
+ /* نهاييييييييييييييييييييييييييييييييييييييية الثاااااااااااااااااااااااااااااااااااااااااالث */
+
+ .contnerservice{
+    width: 100%;
+    height: 150vh;
+    margin-top:10%;
+    position: relative;
+ }
+
+ .h2service{
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+ }
+ .lineh2service{
+    width: 150px;
+    height: 6px;
+    background-color: white;
+    margin: auto;
+    margin-top: -20px;
+   
+ }
+
+ .contnerservice1{
+    width: 80%;
+    height: 100vh;
+    margin-left: 10%;
+    position: relative;
+ }
+
+ 
+ .h2service1{
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: capitalize;
+    color: white;
+ }
+
+ .pservice1{
+    font-size: 20px;
+   font-family: 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+    margin-left: 7px;
+    color: brown;
+ 
+ }
+
+.service{
+    width: 25%;
+    height: 35%;
+    border: 2px solid white;
+    float: left;
+   margin-top: 9%;
+   margin-left: 6%;
+   position: relative;
+    
+}
+
+ .service::after{
+    position: absolute;
+    content: "";
+
+    width: 0;
+    height: 0;
+
+    bottom:0;
+    left: 0;
+    background-color: rgb(136, 209, 209);
+    opacity: 0;
+    
+ }
+
+ .service:hover::after{
+
+    width: 100%;
+    height: 100%;
+opacity: 0.4;
+transition: 1s;
+ }
+
+ /* نهاااااااااااااااااااااااااااااااااية الرااااااااااااااااااااااااااااااااابع */
+ 
+ .part5{
+    width: 100%;
+    height: 120vh;
+    position: relative;
+ }
+
+
+ .continer5{
+
+    width: 80%;
+    height: 80%;
+    position: absolute;
+    margin-left: 10%;
+    position: relative;
+ }
+
+ .imgpart5{
+    margin-left:50%;
+    position: relative;
+    position: absolute;
+    
+ }
+
+ .choose{
+width: 50%;
+height: 70%;
+
+ }
+
+ .h2choose{
+    color:brown;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ text-transform: uppercase;
+ font-size: 30px;
+ }
+ .linechoose{
+    width: 100px;
+    height: 5px;
+   background-color:white;
+   margin: auto;
+   margin-top: -20px;
+   
+ }
+
+ .pchoose{
+    margin-left: 10px;
+    font-size: 20px;
+    text-transform: capitalize;
+    margin-top: 30px;
+    color: white;
+ }
+
+ /* نهايييييييييييييييييييييييييييييييييييييييييييية الخاممممممممممممممممممممممممممممممممممممممممممممممممممممس */
+
+ .conintnerfive{
+    width: 100%;
+    height: 50vh;
+    margin-top: -10%;
+    background-image: url(../img/famous-car-taglines-of-all-time-body-a-200620220100-1024x640-AR4122022.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+ }
+
+ .conitenrfivesoml{
+    width: 20%;
+    height: 20vh;
+    float: left;
+    margin-left: 50px;
+    margin-top: 50px;
+    text-align: center;
+ }
+
+ .cofi{
+    margin-top: 50px;
+ }
+
+ .titlefive{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+ }
+
+ .pfive{
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: white;
+margin-top: -30px;
+ }
+
+ .iconfive{
+    font-size: 30px;
+    color: brown;
+ }
+
+ /* نهااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااية السادس  */
+
+.h2table{
+    font-size: 40px;
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-top:10%;
+}
+
+.linetable{
+    width: 100px;
+    height: 4px;
+    background-color: white;
+    margin: auto;
+    margin-top: -20px;
+}
+
+.coninertable{
+    width: 100%;
+    height: 100vh;
+    margin-top: 20px;
+}
+
+.pricing{
+    width: 20%;
+    height: 70%;
+    border: 2px solid white;
+    float: left;
+    margin-left: 10%;
+    margin-top: 50px;
+    position: absolute;
+    position: relative;
+}
+
+.doller{
+    width: 40%;
+    height: 20%;
+    border: 2px solid white;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.h2doller{
+    padding: 10px 10px ;
+    font-size: 30px;
+    color: brown;
+}
+
+.h2pricing{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+    text-align: center;
+}
+
+.ppricing{
+    font-size: 20px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:white;
+    text-align: center;
+}
+
+.butpricing{
+    width: 150px;
+    height: 50px;
+    background-color: brown;
+    font-size: 30px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   margin-left: 60px;
+    margin-top: 50px;
+}
+
+.pricing::after{
+    position: absolute;
+    content: "";
+    width: 0;
+    height: 0;
+
+    top: 0;
+    left: 0;
+
+    background-color:rgb(136, 209, 209);
+    opacity: 0;
+    
+
+}
+
+.pricing:hover::after{
+    width: 100%;
+    height: 100%;
+    transition: 1s;
+    opacity: 0.5;
+}
+
+
+
+/* نهااااااااااااااااااااااااااااااااااااااااااااااااااااااااااسة الساااااااااااااااااااادس */
+
+
+
+.conitenerbart6{
+width: 100%;
+height: 50vh;
+margin-top: 10%;
+background-image: url(../img/shutterstock_1122339353-Converted.webp);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+
+.timebart6{
+    width: 80%;
+    height: 80%;
+    margin-left: 150px;
+    margin-top: 30px;
+    float: left;
+}
+
+.imgtimebart6{
+   width: 30%;
+   height: 100%;
+   position: relative;
+   background-image: url(../img/WhatsApp\ Image\ 2024-08-20\ at\ 2.31.25\ AM.jpeg);
+   border-radius: 10%;
+   background-size: cover;
+}
+
+.titeltiembart6{
+    width: 50%;
+    height: 50%;
+    float: left;
+    position: relative;
+    margin-left: 30%;
+    margin-top: -23%;
+}
+
+.h2bart6{
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    margin-left: 40px;
+    text-transform: uppercase;
+}
+
+.pbart6{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    text-transform: capitalize;
+    margin-left: 40px;
+}
+
+
+.conenrttemm{
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(112, 107, 107, 0.6);
+    position: relative;
+    margin-top: 100px;
+}
+
+.timee{
+    width: 100%;
+    height: 50%;
+    position: absolute;
+   margin-top: 15%;
+   
+}
+
+.temone{
+    width: 25%;
+    height: 100%;
+    background-color: black;
+    position: absolute;
+    float: left;
+    position: relative;
+    margin-left: 60px;
+  
+}
+
+.icontem{
+    width: 100%;
+    height: 100%;
+    margin-top: -180px;
+    margin-left:160%;
+    color: blue;
+   opacity: 0;
+  
+}
+.tiemtitel{
+    color: white;
+}
+
+
+.icontem:hover{
+    width: 50px;
+    height: 60px;
+    margin-top: -180px;
+    margin-left:160%;
+    color: blue;
+   opacity: 1;
+ 
+   
+}
+
+
+.iccon{
+
+    font-size: 25px;
+    margin-top: 4px;
+}
+
+.temone::after{
+position: absolute;
+content: "";
+    width: 100%;
+    height: 0;
+
+    top: 0;
+    /* left: 0; */
+
+    background-color:rgba(0, 0, 0, 0.6);
+    opacity: 0;
+}
+
+.temone:hover::after{
+
+    width: 100%;
+    height: 100%;
+
+    opacity: 1;
+    transition: 2s;
+}
+.imgtem{
+    width: 220px;
+    height: 150px;
+}
+
+
+
+.tiemimeg{
+    width: 150px;
+    height: 150px;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+.temtitel{
+    text-align: center;
+    margin-top: 60px;
+    margin-left: 10px;
+    color: white;
+}
+
+.tiemtitel{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: brown;
+}
+
+.tiemtitelline{
+    width: 100px;
+    height: 6px;
+    background-color: white;
+    margin: auto;
+    margin-top: -20px;
+}
+/* ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+
+.titenews{
+    color: white;
+}
+
+.iconinfo
+{
+    color: brown;
+}
+
+.fotter{
+    width: 100%;
+    height: 50vh;
+    background-color: white;
+}
+
+.imgfooter{
+    width: 150px;
+    height: 100px;
+    margin-left:45%;
+    margin-top: 10%;
+}
+
+.iconfotter{
+    text-align: center;
+  margin-left:10px;
+    display: flex;
+    
+    align-items: center;
+}
+
+.iconfotter1{
+    margin-left: 45%;
+}
+
+.foterp{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
